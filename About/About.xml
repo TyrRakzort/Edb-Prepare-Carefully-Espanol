@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>EdB Prepare Carefully Español</name>
+	<author>TyrRakzort</author>
+	<packageId>TyrRakzort.EdBPrepareCarefully</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+	<li>1.4</li>
+  </supportedVersions>
+	<description>¡Personaliza a tus colonos de RimWorld, elige tu equipo y prepárate cuidadosamente para tu aterrizaje forzoso! Utilice los límites de puntos opcionales para intentar crear un inicio equilibrado o mantenga los puntos deshabilitados para crear el grupo inicial que siempre quiso probar. Guarde su configuración como preestablecido para que pueda comenzar su juego de la misma manera más tarde.
+
+Traducción al español y al español latino del mod 'EdBPrepareCarefully' de edbmods.
+	</description>
+	<modDependencies>
+        <li>
+			<packageId>EdB.PrepareCarefully</packageId>
+			<displayName>EdB Prepare Carefully</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=735106432</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>EdB.PrepareCarefully</li>
+	</loadAfter>
+</ModMetaData>
