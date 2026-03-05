@@ -1,4 +1,4 @@
-db Prepare Carefully – Spanish Translation for RimWorld
+Edb Prepare Carefully – Spanish Translation for RimWorld
 This project delivers a complete Spanish translation of the popular RimWorld mod Edb Prepare Carefully. It preserves the original mod’s functionality while providing a fully localized interface, terminology, and user experience for Spanish‑speaking players. Every menu, option, tooltip, and configuration screen has been carefully translated to maintain clarity, immersion, and consistency with RimWorld’s official Spanish localization.
 What This Translation Includes
 - Full Spanish localization of all UI elements
